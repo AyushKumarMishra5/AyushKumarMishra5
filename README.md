@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ae621354-8278-4a41-a121-327976b37cee)
 <div align="center">
-  <h2><b>Hi, I'm Ayush Kumar Mishra 👋</b></h2>
+  <h2><b>Hi 👋, I'm Ayush Kumar Mishra</b></h2>
 </div>
 
 
