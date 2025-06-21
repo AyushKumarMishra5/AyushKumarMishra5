@@ -13,10 +13,7 @@
 <a href="https://micropython.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="MicroPython" width="40"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40"/></a>
-<a href="https://aws.amazon.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
-</a>
-
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></a>
 <a href="https://www.chartjs.org/"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40"/></a>
@@ -27,11 +24,7 @@
 <a href="https://railway.app/"><img src="https://avatars.githubusercontent.com/u/78751256?s=200&v=4" alt="Railway" width="40"/></a>
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/></a>
 <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40"/></a>
-<a href="https://render.com/">
-  <img src="https://avatars.githubusercontent.com/u/60035332?s=200&v=4" alt="Render" width="40"/>
-
-</a>
-
+<a href="https://render.com/"><img src="https://www.svgrepo.com/show/414096/render.svg" alt="Render" width="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/></a>
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
