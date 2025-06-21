@@ -3,7 +3,7 @@
   <h1><b>Hi 👋, I'm Ayush Kumar Mishra</b></h1>
 </div>
 <div align="center">
-  <h3>|Full Stack Developer|</h3>
+  <h3>-- Full Stack Developer --</h3>
 </div>
 
 
