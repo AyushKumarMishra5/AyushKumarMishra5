@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4d91af1c-c388-4190-83ad-59564a29f00c)
+#Languages and Tools
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/></a>
