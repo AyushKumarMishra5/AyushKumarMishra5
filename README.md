@@ -1,4 +1,8 @@
 ![image](https://github.com/user-attachments/assets/ae621354-8278-4a41-a121-327976b37cee)
+<div align="center">
+  <h2>Hi, I'm Ayush Kumar Mishra</h2>
+</div>
+
 
 ## Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/></a>
