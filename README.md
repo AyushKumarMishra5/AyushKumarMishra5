@@ -27,7 +27,10 @@
 <a href="https://railway.app/"><img src="https://avatars.githubusercontent.com/u/78751256?s=200&v=4" alt="Railway" width="40"/></a>
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/></a>
 <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40"/></a>
-<a href="https://render.com/"><img src="https://avatars.githubusercontent.com/u/60035332?s=200&v=4" alt="Render" width="40"/></a>
+<a href="https://render.com/">
+  <img src="https://raw.githubusercontent.com/ElAnandDev/Render-Logo/main/render-logo.png" alt="Render" width="40"/>
+</a>
+
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/></a>
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></a>
