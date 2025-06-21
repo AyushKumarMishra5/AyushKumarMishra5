@@ -2,6 +2,10 @@
 <div align="center">
   <h1><b>Hi 👋, I'm Ayush Kumar Mishra</b></h1>
 </div>
+<div align="center">
+  <h3>|Full Stack Developer|</h3>
+</div>
+
 
 ## Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/></a>
