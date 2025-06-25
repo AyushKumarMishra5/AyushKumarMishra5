@@ -62,8 +62,8 @@ Create secure video chat rooms instantly. Share links, invite friends, and conne
 - 💻 React + WebRTC + Socket.IO + Node.js  
 - 🔒 Room locking, user presence detection, and chat features  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Video-Chat-App)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://video-chat-application-xggq.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/AyushKumarMishra5/Video-Chat-Application)
 
 ---
 
@@ -72,8 +72,8 @@ A delivery app to order groceries and get them delivered within 20 minutes.
 - 🌐 MERN Stack + Google Maps API + Payment Gateway  
 - 🛵 Real-time delivery tracking and dynamic product updates  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Flashmart)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://flashmart.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/AyushKumarMishra5/FlashMart)
 
 
 
