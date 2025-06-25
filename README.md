@@ -45,11 +45,29 @@
 <a href="https://openai.com/"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI" width="40"/></a>
 <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40"/></a>
 
+## 🚀 Featured Projects
+
+### 🏥 XenoHealth — Smart Healthcare App
+An intelligent health tracking and consultation platform built to enhance patient-doctor interaction.
+- 📱 React Native + Node.js + MongoDB
+- ☁️ AWS integration, real-time health stats, and secure login
+- 🔗 [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/yourusername/Xenohealth)
+
+---
+
+### 🎥 Video Chat Application — Meet in Seconds
+Create secure video chat rooms instantly. Share links, invite friends, and connect with crystal-clear video.
+- 💻 React + WebRTC + Socket.IO + Node.js
+- 🔒 Room locking, user presence detection, and chat features
+- 🔗 [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/yourusername/Video-Chat-App)
+
+---
+
 ### 🛒 FlashMart — Grocery in 20 Minutes
-![FlashMart Preview](https://github.com/yourusername/Flashmart/blob/main/assets/flashmart-preview.png)
+A delivery app to order groceries and get them delivered within 20 minutes.
+- 🌐 MERN Stack + Google Maps API + Payment Gateway
+- 🛵 Real-time delivery tracking and dynamic product updates
+- 🔗 [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/yourusername/Flashmart)
 
-A fast grocery delivery app built with the MERN stack...
-
-🔗 [Live Demo](...) | [GitHub Repo](...)
 
 
