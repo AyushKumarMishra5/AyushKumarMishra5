@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ae621354-8278-4a41-a121-327976b37cee)
+![image](https://github.com/user-attachments/assets/0313557b-7172-4d4b-a162-908b42d9f36d)
+
 <div align="center">
   <h1><b>Hi 👋, I'm Ayush Kumar Mishra</b></h1>
 </div>
