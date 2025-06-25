@@ -53,7 +53,7 @@ An intelligent health tracking and consultation platform built to enhance patien
 - ☁️ AWS integration, real-time health stats, and secure login  
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Xenohealth)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/AyushKumarMishra5/Hospital-Management-System)
 
 ---
 
