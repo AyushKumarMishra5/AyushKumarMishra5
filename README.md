@@ -47,42 +47,34 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🏥 XenoHealth — Smart Healthcare App
+An intelligent health tracking and consultation platform built to enhance patient-doctor interaction.  
+- 📱 React Native + Node.js + MongoDB  
+- ☁️ AWS integration, real-time health stats, and secure login  
 
-<table>
-  <tr>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Xenohealth)
 
-    <td align="center" width="33%">
-      <h3>🏥 XenoHealth</h3>
-      <img src="https://github.com/yourusername/Xenohealth/blob/main/assets/xenohealth-preview.png" width="250px" alt="XenoHealth Preview"/><br><br>
-      <p>An intelligent health tracking and consultation platform.</p>
-      <p><strong>Stack:</strong> React Native, Node.js, MongoDB, AWS</p>
-      <a href="https://your-demo-link.com">🌐 Live Demo</a> |
-      <a href="https://github.com/yourusername/Xenohealth">📦 Repo</a>
-    </td>
+---
 
-    <td align="center" width="33%">
-      <h3>🎥 Video Chat App</h3>
-      <img src="https://github.com/yourusername/Video-Chat-App/blob/main/assets/videochat-preview.gif" width="250px" alt="Video Chat Preview"/><br><br>
-      <p>Create secure video rooms with real-time chat and media sharing.</p>
-      <p><strong>Stack:</strong> React, WebRTC, Socket.IO, Node.js</p>
-      <a href="https://your-demo-link.com">🌐 Live Demo</a> |
-      <a href="https://github.com/yourusername/Video-Chat-App">📦 Repo</a>
-    </td>
+### 🎥 Video Chat Application — Meet in Seconds
+Create secure video chat rooms instantly. Share links, invite friends, and connect with crystal-clear video.  
+- 💻 React + WebRTC + Socket.IO + Node.js  
+- 🔒 Room locking, user presence detection, and chat features  
 
-    <td align="center" width="33%">
-      <h3>🛒 FlashMart</h3>
-      <img src="https://github.com/yourusername/Flashmart/blob/main/assets/flashmart-preview.png" width="250px" alt="FlashMart Preview"/><br><br>
-      <p>Order groceries and get delivery in just 20 minutes.</p>
-      <p><strong>Stack:</strong> MERN, Google Maps API, Stripe</p>
-      <a href="https://your-demo-link.com">🌐 Live Demo</a> |
-      <a href="https://github.com/yourusername/Flashmart">📦 Repo</a>
-    </td>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Video-Chat-App)
 
-  </tr>
-</table>
+---
 
-</div>
+### 🛒 FlashMart — Grocery in 20 Minutes
+A delivery app to order groceries and get them delivered within 20 minutes.  
+- 🌐 MERN Stack + Google Maps API + Payment Gateway  
+- 🛵 Real-time delivery tracking and dynamic product updates  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/yourusername/Flashmart)
+
 
 
 
