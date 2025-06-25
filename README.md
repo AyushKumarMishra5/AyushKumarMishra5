@@ -52,7 +52,7 @@ An intelligent health tracking and consultation platform built to enhance patien
 - 📱 React Native + Node.js + MongoDB  
 - ☁️ AWS integration, real-time health stats, and secure login  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](xenohealth.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://xenohealth.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/AyushKumarMishra5/Hospital-Management-System)
 
 ---
