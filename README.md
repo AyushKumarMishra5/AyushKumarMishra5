@@ -4,9 +4,21 @@
   <h1><b>Hi 👋, I'm Ayush Kumar Mishra</b></h1>
 </div>
 <div align="center">
-  <h3>-- Full Stack Developer --</h3>
-  * All my projects are avuialable at:  https://github.com/AyushKumarMishra5
+
+  <h3>🚀 Full Stack Developer</h3>
+
 </div>
+
+<div align="left">
+
+- 🔭 I’m currently working on: AI-integrated web apps and scalable backend systems  
+- 🧠 Constantly learning: TypeScript, Next.js, DevOps, and Serverless Architecture  
+- 💡 I love solving real-world problems through code and creating intuitive UIs  
+- 🎯 Mission: Build apps that are fast, functional, and user-first  
+- 🧩 Fun fact: I built my first full-stack app before I finished 12th grade 💥  
+- 📬 Reach me: [ayush.yourmail@example.com](akmishra2282004@gmail.com)  
+</div>
+
 
 
 ## Languages and Tools
