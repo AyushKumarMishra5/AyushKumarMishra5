@@ -6,6 +6,8 @@
 <div align="center">
 
   <h3>🚀 Full Stack Developer</h3>
+  <p>👨‍💻 I’m Ayush — a builder at heart, problem-solver by nature, and full stack developer by passion.<br>
+  Scroll down to explore real-world projects, AI experiments, and scalable solutions.</p>
 
 </div>
 
@@ -15,13 +17,12 @@
 - 🧠 Constantly learning: TypeScript, Next.js, DevOps, and Serverless Architecture  
 - 💡 I love solving real-world problems through code and creating intuitive UIs  
 - 🎯 Mission: Build apps that are fast, functional, and user-first  
-- 🧩 Fun fact: I built my first full-stack app before I finished 12th grade 💥  
-- 📬 Reach me: [ayush.yourmail@example.com](akmishra2282004@gmail.com)  
+- 🧩 Fun fact: I built my first website before I finished 12th grade
 </div>
 
 
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
