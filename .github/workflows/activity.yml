@@ -1,0 +1,30 @@
+# ════════════════════════════════════════════════════════════════
+#  ⚡ RECENT ACTIVITY — auto-injects your last GitHub actions
+#  into the README between the <!-- blogosaurus --> markers.
+# ════════════════════════════════════════════════════════════════
+name: ⚡ Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"      # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update Activity Feed
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          config_max_lines: 6
+          commit_username: "AyushKumarMishra5"
+          commit_email: "ayushkmishra22aug@gmail.com"
+          commit_message: "⚡ update recent activity"
+          settings_descriptions: 50
+          settings_disable_actions: |
+            comment
