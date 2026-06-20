@@ -1,0 +1,32 @@
+# ════════════════════════════════════════════════════════════════
+#  🏆 PROFILE TROPHIES — generates a ranked trophy board SVG and
+#  commits it, so the README loads instantly (no external runtime lag).
+# ════════════════════════════════════════════════════════════════
+name: 🏆 Trophy Board
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"          # every Monday 6AM
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths: [ ".github/workflows/trophies.yml" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 🏆 Fetch trophies
+        run: |
+          mkdir -p assets
+          curl -sL "https://github-profile-trophy.vercel.app/?username=AyushKumarMishra5&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" -o assets/trophies.svg
+
+      - name: 🚀 Commit trophy board
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🏆 refresh profile trophies"
+          file_pattern: "assets/trophies.svg"
