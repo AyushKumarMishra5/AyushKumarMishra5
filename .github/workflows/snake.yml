@@ -1,0 +1,38 @@
+# ════════════════════════════════════════════════════════════════
+#  🐍 ADVANCED CONTRIBUTION SNAKE — dark + light + animated variants
+#  Runs every 6 hours + on every push, commits SVGs to `output` branch
+# ════════════════════════════════════════════════════════════════
+name: 🐍 Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # refresh 4x a day
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # ── 1. Generate dark, light & ocean palette snakes ──────────
+      - name: 🐍 Generate Snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AyushKumarMishra5
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/ocean-snake.svg?palette=github-dark&color_snake=00f0ff&color_dots=0d1117,1f2937,374151,9ca3af,e5e7eb
+
+      # ── 2. Publish the SVGs to an `output` branch ───────────────
+      - name: 🚀 Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
